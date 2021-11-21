@@ -1,0 +1,61 @@
+.own-button {
+    background: #E76F51;
+    color: white;
+    transition: all 1s ease;
+    border: none;
+}
+
+.own-button-log {
+    background: #15b33c;
+    color: white;
+    transition: all 1s ease;
+    border: none;
+}
+.own-nav-bg {
+    background: #264653;
+}
+.nav-link:hover {
+    color: tomato !important;
+}
+
+a {
+    text-decoration: none; color: black; 
+}
+
+
+.own-button:hover, .own-button-log:hover {
+    color: white;
+    border-radius: 15px;
+}
+footer a{
+    display: inline-block; margin-right: 20px;
+}
+ footer i{
+    font-size: 30px;
+}
+ a:hover {
+    color: tomato;
+}
+
+.hero {
+    background: #264653;
+}
+
+.own-border {
+    border-bottom: 1px solid #E76F51;
+}
+
+.own-bg-container img {
+    mix-blend-mode: luminosity;
+}
+
+.tomato {
+    color: tomato;
+}
+
+.own-width {
+    width: 150px;
+}
+.own-foot{
+    background: rgb(235, 230, 230);
+}
